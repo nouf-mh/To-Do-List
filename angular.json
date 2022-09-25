@@ -37,6 +37,9 @@
             ]
           },
           "configurations": {
+            "github-pages": {
+              "baseHref": "/To-Do-List/"
+            },
             "production": {
               "budgets": [
                 {
